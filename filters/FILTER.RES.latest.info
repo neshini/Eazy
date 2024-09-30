@@ -416,3 +416,9 @@
 416 1101 synthetic_i lambda_c= 7500. from-Antwi-Danso-2022-arXiv-2207.07170
 417 1019 jwst_nirspec_f110w_trans.fits lambda_c= 1.15576e+04 JDox-Jan-2023
 418 270  jwst_nirspec_f140x_trans.fits lambda_c= 1.38014e+04 JDox-Jan-2023
+419 640 B_UVOT
+420 640 U_UVOT
+421 640 UVM2_UVOT
+422 640 UVW1_UVOT
+423 640 UVW2_UVOT
+424 641 V_UVOT
